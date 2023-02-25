@@ -9,3 +9,6 @@ Portfolio repo for CS4395
 
 ## Portfolio Assignment 2: Guessing Game
 [Here](nlw180001WordGuess.py) is the link to the file for the game. [Here](anat19.txt) is the text file that accompanies it.
+
+## Portfolio Assignment 3: WordNet
+[Here](nlw180001WordNetPDF.pdf) is the link to a PDF version of a Python Notebook showing my experiments with WordNet.
