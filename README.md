@@ -12,3 +12,9 @@ Portfolio repo for CS4395
 
 ## Portfolio Assignment 3: WordNet
 [Here](nlw180001WordNetPDF.pdf) is the link to a PDF version of a Python Notebook showing my experiments with WordNet.
+
+## Portfolio Assignment 4: N-Grams
+Here are the [first](nlw180001NGram.py) and [second](nlw180001Percentage.py) python files for the assignment. [Here](NGram_Essay.pdf) is the associated essay.
+
+## Portfolio Assignment 5: Parsing
+[Here](parsing.pdf) is the pdf file showing the manual parses. [Here](Parsing_Paragraph.pdf) is the short paragraph giving the pros and cons of each method.
