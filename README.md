@@ -18,3 +18,6 @@ Here are the [first](nlw180001NGram.py) and [second](nlw180001Percentage.py) pyt
 
 ## Portfolio Assignment 5: Parsing
 [Here](parsing.pdf) is the pdf file showing the manual parses. [Here](Parsing_Paragraph.pdf) is the short paragraph giving the pros and cons of each method.
+
+## Portfolio Assignment 6: Corpora
+[Here](nlw180001WebScrape.py) is the file and [here](nlw180001Corpus_Doc.pdf) is the document.
