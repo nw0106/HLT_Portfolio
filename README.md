@@ -22,5 +22,8 @@ Here are the [first](nlw180001NGram.py) and [second](nlw180001Percentage.py) pyt
 ## Portfolio Assignment 6: Corpora
 [Here](nlw180001WebScrape.py) is the file and [here](nlw180001Corpus_Doc.pdf) is the document.
 
-## Portfolion Assignment 7: Text Classification
+## Portfolio Assignment 7: Text Classification
 [Here](nlw180001TextClassify.pdf) is the PDF version of the notebook this assignment was carried out on.
+
+## Portfolio Assignment 8: ACL Paper Summary
+[Here](nlw180001DuClarifyDial.pdf) is the summary.
