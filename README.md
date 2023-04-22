@@ -30,3 +30,6 @@ Here are the [first](nlw180001NGram.py) and [second](nlw180001Percentage.py) pyt
 
 ## Chatbot Report	
 [Here](nlw180001ChatbotReport.pdf) is the report for the chatbot. The zipped chatbot file is too large to upload directly, please email me for the chatbot itself.
+
+## Portfolio Assignmetn 9: Text Classification 2
+[Here](nlw180001Classify2.pdf) is the PDF version of the notebook this assignment was carried out on.
