@@ -31,5 +31,11 @@ Here are the [first](nlw180001NGram.py) and [second](nlw180001Percentage.py) pyt
 ## Chatbot Report	
 [Here](nlw180001ChatbotReport.pdf) is the report for the chatbot. The zipped chatbot file is too large to upload directly, please email me for the chatbot itself.
 
-## Portfolio Assignmetn 9: Text Classification 2
+## Portfolio Assignment 9: Text Classification 2
 [Here](nlw180001Classify2.pdf) is the PDF version of the notebook this assignment was carried out on.
+
+## Portfolio Assignment 10: Porfolio Wrap-up
+[Here](nlw180001Wrapup.pdf) is the document containing the wrap-up.
+
+## Summary
+This repository showcases my natural language processing skills I have acquired this semester. These include working with rules-based, statistical, and ML-based NLP systems, working with N-Grams, text processing and classification, creating corpora, and text parsing. I plan to keep in touch with this field and its developments, and recently I have been thinking on working on an upgraded ML-based version of the chatbot I made for this class. 
